@@ -1,4 +1,4 @@
-# NetGenius | TechFic
+# NetGeniusYT | TechFic-News
 
 👋 Hi, I'm Rahul Kumar, known as NetGeniusYT on YouTube and TechFic-News on blogspot. I'm a final year BSc IT student, passionate about technology, programming, and sharing knowledge.
 
