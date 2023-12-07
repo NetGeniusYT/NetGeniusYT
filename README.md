@@ -1,12 +1,12 @@
 # NetGenius | TechFic
 
-👋 Hi, I'm Rahul Kumar, known as NetGenius on YouTube and TechFic on GitHub. I'm a final year BSc IT student, passionate about technology, programming, and sharing knowledge.
+👋 Hi, I'm Rahul Kumar, known as NetGeniusYT on YouTube and TechFic-News on blogspot. I'm a final year BSc IT student, passionate about technology, programming, and sharing knowledge.
 
 ## About Me
 
 - 🎓 Final year BSc IT student
 - 💡 Tech enthusiast and programming aficionado
-- 🌐 Creator of [TechFic News](https://techficnews.blogspot.com/) and [NetGenius YouTube](https://www.youtube.com/@NetGeniusYT)
+- 🌐 Creator of [TechFic News](https://techficnews.blogspot.com/) and [NetGeniusYT YouTube](https://www.youtube.com/@NetGeniusYT)
 
 ## Skills
 
@@ -38,7 +38,7 @@
 - 🐦 [Twitter](https://twitter.com/PatriotRahulydv)
 - 📧 Email: ry526076@gmail.com
 - 👥 [Facebook](https://www.facebook.com/gangsterahulyadav)
-- 📷 [Instagram](https://www.instagram.com/gangsteryadav_rahul333)
+- 📷 [Instagram](https://www.instagram.com/rahul.kumarydw)
 - 🎥 [Subscribe on YouTube](https://www.youtube.com/@NetGeniusYT)
 
 Feel free to connect, collaborate, and explore the fascinating world of tech and programming with me! 🚀
